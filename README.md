@@ -2,6 +2,11 @@
 Generating MNIST images using GANs
 ![image](https://user-images.githubusercontent.com/56813534/113173465-5be4ed00-9284-11eb-8528-745d9a06b34c.png)
 
+epoch: 40
+
+![image](https://user-images.githubusercontent.com/56813534/113175473-6902db80-9286-11eb-8f89-db58984af859.png)
+
+
 epoch: 200
 
 ![image](https://user-images.githubusercontent.com/56813534/113173731-a8302d00-9284-11eb-8fac-43424a5ad287.png)
@@ -13,8 +18,7 @@ epoch: 700
 
 ## Getting Start
 ### Requirements
-torch
-tqdm
+torch, tqdm
 
 ### Running
 `> python main.py`

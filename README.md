@@ -34,8 +34,5 @@ I got a help from coursera lecture and 2 source codes.
 - https://github.com/yunjey/pytorch-tutorial/blob/master/tutorials/03-advanced/generative_adversarial_network/main.py
 
 ## etc.
-1. I did not make __pycache__ file and checkpoints. WTH!?
-2. I erased all comments while fixing the errors. I will write the comments ASAP. Sorry!
-
-1. 아니 __pycache__랑 checkpoint는 내가 안만들었는데 뭐지
-2. 코드를 수정하면서 주석을 다 지워버렸습니다. 최대한 빠른시일 안에 주석을 작성하겠습니다.
+1. I did not make __pycache__ file and checkpoints. WTH!? (아니 __pycache__랑 checkpoint는 내가 안만들었는데 뭐지)
+2. I erased all comments while fixing the errors. I will write the comments ASAP. Sorry! (코드를 수정하면서 주석을 다 지워버렸습니다. 최대한 빠른시일 안에 주석을 작성하겠습니다.)

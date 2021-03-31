@@ -32,3 +32,6 @@ I got a help from coursera lecture and 2 source codes.
 - https://www.coursera.org/learn/build-basic-generative-adversarial-networks-gans?specialization=generative-adversarial-networks-gans
 - https://github.com/amanchadha/coursera-gan-specialization
 - https://github.com/yunjey/pytorch-tutorial/blob/master/tutorials/03-advanced/generative_adversarial_network/main.py
+
+## 여담
+아니 __pycache__랑 checkpoint는 내가 안만들었는데 뭐지

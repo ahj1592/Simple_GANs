@@ -24,7 +24,9 @@ epoch: 700
 torch, tqdm
 
 ### Running
-`> python main.py`
+```bash
+$ python main.py
+```
 
 ## Thanks To
 I got a help from coursera lecture and 2 source codes. 
